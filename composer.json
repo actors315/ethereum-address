@@ -1,0 +1,14 @@
+{
+  "name": "lingyin/ethereum-address",
+  "description": "Ethereum address validation",
+  "require": {
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "lingyin\\ethereum\\": "src/"
+    }
+  }
+}
