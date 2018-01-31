@@ -6,7 +6,7 @@
  * Time: 20:08
  */
 
-namespace lingyin\ethereum;
+namespace lingyin\ethereum\address;
 
 
 class Address
