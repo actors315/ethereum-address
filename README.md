@@ -5,3 +5,19 @@
 ```
 https://github.com/cilphex/ethereum-address
 ```
+
+## 安装  
+
+```
+composer require lingyin/ethereum-address
+```
+
+## 使用
+
+```
+
+$checkLogic = new \lingyin\ethereum\address\Address();
+$checkLogic->validate('0x122214');
+$checkLogic->validate('0xbC2Ae4849E58ead2AE05308945bdD99550d73F8d')
+
+```
